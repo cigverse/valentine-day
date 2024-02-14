@@ -1,9 +1,9 @@
 const alternatives = [
   {text:"", images:"images/cat-01.gif"},
-  {text:"Cómo que no?", images:"images/cat-02.gif"},
-  {text:"Don't be mean", images:"images/cat-03.gif"},
-  {text:"Así no", images:"images/cat-04.gif"},
-  {text:"BABYYY >:( ", images:"images/cat-05.gif"},
+  {text:"Cómo que no?", images:"images/cat-sad.gif"},
+  {text:"Don't be mean", images:"images/cat-mean.gif"},
+  {text:"Así no", images:"images/cat-mad.gif"},
+  {text:"BABYYY >:( ", images:"images/cat-angry.gif"},
 ]
 const ohyes = {text:"I luuuhhh you", images:"images/cat-yes.gif"}
 const cat = document.querySelector('.cat')
