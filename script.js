@@ -1,6 +1,6 @@
 const alternatives = [
   {text:"", images:"images/cat-01.gif"},
-  {text:"Piénsalo de nuevo", images:"images/cat-02.gif"},
+  {text:"Cómo que no?", images:"images/cat-02.gif"},
   {text:"Don't be mean", images:"images/cat-03.gif"},
   {text:"Así no", images:"images/cat-04.gif"},
   {text:"BABYYY >:( ", images:"images/cat-05.gif"},
